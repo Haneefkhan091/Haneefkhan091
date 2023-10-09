@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/haneef-ullah-7458b923a/](https://www.linkedin.com/in/haneef-ullah-7458b923a/)
 
-- ⚡ Fun fact **Beside my work sometime i love teasing my friends and family**
+- ⚡ Fun fact **love teasing my friends and family**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
