@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haneefkhan091" alt="haneefkhan091" /></a> </p>
 
-- 🔭 I’m currently working on **Automating a property project with API Automation as well**
+- 🔭 I’m currently working on **Automating a property project, API Automation with manual testing as well**
 
 - 🌱 I’m currently learning **CI/CD and new tools for personal growth**
 
-- 👯 I’m looking to collaborate on **Mobile Automation Project**
+- 👯 I’m looking to collaborate on **Mobile Automation Project plus manual testing**
 
-- 🤝 I’m looking for help with **Automation Tools and Technologies**
+- 🤝 I’m looking for help with **Automation Tools and Technologies and manual testing**
 
-- 👨‍💻 All of my projects are available at [Inside my GitHub Repo](Inside my GitHub Repo)
+- 👨‍💻 All of my projects are available at (Inside my GitHub Repo)
 
 - 📝 I regularly write articles on [https://medium.com/@haneefullah00345](https://medium.com/@haneefullah00345)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/haneef-ullah-7458b923a/](https://www.linkedin.com/in/haneef-ullah-7458b923a/)
 
-- ⚡ Fun fact **love teasing my friends and family**
+- ⚡ Fun fact I love teasing my friends and family**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
