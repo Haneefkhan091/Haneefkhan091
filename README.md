@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haneef Khan</h1>
-<h3 align="center">A passionate SDET Engineer from Pakistan</h3>
+<h3 align="center">A passionate SDET Engineer and Manual QA from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haneefkhan091" alt="haneefkhan091" /></a> </p>
 
