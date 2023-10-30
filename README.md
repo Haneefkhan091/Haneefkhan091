@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Automation Tools and Technologies and manual testing**
 
-- 👨‍💻 All of my projects are available at (Inside my GitHub Repo)
+- 👨‍💻 All of my projects are available at Inside my GitHub Repo
 
 - 📝 I regularly write articles on [https://medium.com/@haneefullah00345](https://medium.com/@haneefullah00345)
 
