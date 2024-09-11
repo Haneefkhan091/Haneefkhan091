@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **HaneefUllah00345@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/haneef-ullah-7458b923a/](https://www.linkedin.com/in/haneef-ullah-7458b923a/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/haneef-ullah-7458b923a/)
 
 - ⚡ Fun fact I love teasing my friends and family**
 
